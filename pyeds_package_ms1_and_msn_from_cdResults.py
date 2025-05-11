@@ -11,7 +11,7 @@ import pyeds
 # added commant
 result_file = "D:/ezra/compound_discoverer_analysis/pu_wild_emmer_ms2_with_acquireX/pos/pu_we_acquireX_pos.cdResult"
        
-# read report schema
+
 report = pyeds.Report(result_file)
 
 # get all data types
