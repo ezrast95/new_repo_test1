@@ -8,6 +8,7 @@ This is a temporary script file.
 import pyeds
 
 ######## 1. get datatypes ######## 
+# added commant
 result_file = "D:/ezra/compound_discoverer_analysis/pu_wild_emmer_ms2_with_acquireX/pos/pu_we_acquireX_pos.cdResult"
        
 # read report schema
