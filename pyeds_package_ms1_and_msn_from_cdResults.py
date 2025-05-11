@@ -16,7 +16,11 @@ report = pyeds.Report(result_file)
 
 # get all data types
 for data_type in report.DataTypes:
-    print(data_type)        
+    print(data_type)      
+    
+def new_function():
+    for data_type in report.DataTypes:
+        print(data_type) 
 
 
 ######## 2. get columns in datatypes ########   
